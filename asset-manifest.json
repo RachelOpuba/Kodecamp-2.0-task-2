@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kodecamp-2.0-task-2/static/css/main.f678b030.css",
+    "main.js": "/Kodecamp-2.0-task-2/static/js/main.2412f84d.js",
+    "index.html": "/Kodecamp-2.0-task-2/index.html",
+    "static/media/react-logo.svg": "/Kodecamp-2.0-task-2/static/media/react-logo.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.f678b030.css.map": "/Kodecamp-2.0-task-2/static/css/main.f678b030.css.map",
+    "main.2412f84d.js.map": "/Kodecamp-2.0-task-2/static/js/main.2412f84d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f678b030.css",
+    "static/js/main.2412f84d.js"
+  ]
+}
